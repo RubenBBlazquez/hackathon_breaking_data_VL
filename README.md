@@ -9,3 +9,5 @@
 Si prefieres abrir el archivo completo, puedes descargar o visualizar el PDF aquí:
 
 - [RETO 2 - HACKATHON IA.pdf](docs/RETO%202%20-%20HACKATHON%20IA.pdf)
+
+### Todo el flujo del modelo está contenido en el archivo jupyter reto.ipynb
